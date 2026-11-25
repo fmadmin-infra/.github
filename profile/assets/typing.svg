@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 40" width="1360" height="80" role="img" aria-label="Protecting the plants that power industry">
+<defs>
+<clipPath id="c1"><rect x="24" y="0" height="40" width="460"><animate attributeName="width" values="0;460;460;0;0" keyTimes="0;0.13;0.3;0.31;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c2"><rect x="24" y="0" height="40" width="0"><animate attributeName="width" values="0;0;460;460;0;0" keyTimes="0;0.33;0.46;0.63;0.64;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c3"><rect x="24" y="0" height="40" width="0"><animate attributeName="width" values="0;0;460;460;0" keyTimes="0;0.66;0.79;0.97;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<rect width="680" height="40" rx="6" fill="#343E8D"/>
+<g font-family="Consolas,Menlo,monospace" font-size="15" fill="#FFFFFF">
+<text x="24" y="25" clip-path="url(#c1)">&gt; protecting the plants that power industry</text>
+<text x="24" y="25" clip-path="url(#c2)">&gt; every endpoint. every site. defended.</text>
+<text x="24" y="25" clip-path="url(#c3)">&gt; from shop floor to cloud, zero trust</text>
+</g>
+<rect x="640" y="12" width="8" height="16" fill="#FFFFFF"><animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/></rect>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 90" width="1360" height="180" role="img" aria-label="Engineered for steam. Hardened for cyber. Forbes Marshall Information Technology">
+<rect width="680" height="90" rx="8" fill="#343E8D"/>
+<g fill="none" stroke="#FFFFFF" stroke-opacity="0.25" stroke-width="1.5">
+<path d="M-40 66C40 46 100 86 180 66S320 46 400 66S540 86 620 66S760 46 840 66"><animateTransform attributeName="transform" type="translate" values="0 0;-80 0" dur="4s" repeatCount="indefinite"/></path>
+<path d="M-40 78C40 58 100 98 180 78S320 58 400 78S540 98 620 78S760 58 840 78"><animateTransform attributeName="transform" type="translate" values="-80 0;0 0" dur="5s" repeatCount="indefinite"/></path>
+</g>
+<text x="340" y="34" fill="#FFFFFF" font-size="15" font-weight="700" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif">Engineered for steam. Hardened for cyber.</text>
+<text x="340" y="52" fill="#FFFFFF" font-size="10" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif">Forbes Marshall · Information Technology</text>
+</svg>

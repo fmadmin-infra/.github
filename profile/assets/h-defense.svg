@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 34" width="1360" height="68" role="img" aria-label="Defense in depth">
+<rect width="680" height="34" rx="6" fill="#343E8D"/>
+<text x="16" y="22" fill="#FFFFFF" font-size="15" font-weight="700" font-family="Segoe UI,Arial,sans-serif">Defense in depth</text>
+<rect y="32" width="80" height="2" fill="#FFFFFF" opacity="0.7"><animate attributeName="x" values="0;600;0" dur="6s" repeatCount="indefinite"/></rect>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 200" width="1360" height="400" role="img" aria-label="Defense in depth: plant perimeter, network, identity, endpoint and data layers">
+<rect width="680" height="200" rx="8" fill="#12141C"/>
+<g stroke-width="1.5">
+<rect x="20" y="10" width="640" height="180" rx="12" fill="#161A2E" stroke="#343E8D" stroke-dasharray="8 5"><animate attributeName="stroke-dashoffset" from="0" to="-52" dur="4s" repeatCount="indefinite"/></rect>
+<rect x="80" y="30" width="520" height="140" rx="10" fill="#1B2140" stroke="#343E8D"/>
+<rect x="140" y="50" width="400" height="100" rx="8" fill="#222A57" stroke="#343E8D"/>
+<rect x="200" y="70" width="280" height="60" rx="6" fill="#2A3372" stroke="#343E8D"/>
+<rect x="270" y="98" width="140" height="24" rx="4" fill="#343E8D" stroke="#FFFFFF"/>
+</g>
+<g font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#FFFFFF">
+<text x="30" y="26">Plant perimeter · OT</text><text x="90" y="46">Network · segmentation</text><text x="150" y="66">Identity · zero trust</text><text x="210" y="86">Endpoint · behaviour detection</text><text x="340" y="114" text-anchor="middle" font-weight="700">Data</text>
+</g>
+<circle r="4" cy="40" fill="#E5484D"><animate attributeName="cx" values="0;20" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0" keyTimes="0;0.9;1" dur="2s" repeatCount="indefinite"/></circle>
+<circle r="4" cy="100" fill="#E5484D"><animate attributeName="cx" values="0;80" dur="2.6s" begin="0.7s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0" keyTimes="0;0.9;1" dur="2.6s" begin="0.7s" repeatCount="indefinite"/></circle>
+<circle r="4" cy="140" fill="#E5484D"><animate attributeName="cx" values="0;140" dur="3.2s" begin="1.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0" keyTimes="0;0.9;1" dur="3.2s" begin="1.4s" repeatCount="indefinite"/></circle>
+<text x="650" y="184" fill="#FFFFFF" font-size="10" text-anchor="end" font-family="Segoe UI,Arial,sans-serif">Each layer catches what the last one missed</text>
+</svg>
