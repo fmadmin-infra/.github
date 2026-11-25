@@ -42,7 +42,7 @@ We are the **Information Technology team at Forbes Marshall**. We build, run and
 
 <div align="center">
 
-**Contact:** <it-team-mailbox@your-domain>
+**Contact:** <fmadmin@forbesmarshall.com>
 
 <img src="assets/footer.svg" width="100%" alt="Engineered for steam. Hardened for cyber."/>
 
